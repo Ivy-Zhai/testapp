@@ -1,0 +1,11 @@
+E:\A华师\大三\C#\testapp\bin\Debug\netcoreapp2.2\testapp.deps.json
+E:\A华师\大三\C#\testapp\bin\Debug\netcoreapp2.2\testapp.runtimeconfig.json
+E:\A华师\大三\C#\testapp\bin\Debug\netcoreapp2.2\testapp.runtimeconfig.dev.json
+E:\A华师\大三\C#\testapp\bin\Debug\netcoreapp2.2\testapp.dll
+E:\A华师\大三\C#\testapp\bin\Debug\netcoreapp2.2\testapp.pdb
+E:\A华师\大三\C#\testapp\obj\Debug\netcoreapp2.2\testapp.csprojAssemblyReference.cache
+E:\A华师\大三\C#\testapp\obj\Debug\netcoreapp2.2\testapp.csproj.CoreCompileInputs.cache
+E:\A华师\大三\C#\testapp\obj\Debug\netcoreapp2.2\testapp.AssemblyInfoInputs.cache
+E:\A华师\大三\C#\testapp\obj\Debug\netcoreapp2.2\testapp.AssemblyInfo.cs
+E:\A华师\大三\C#\testapp\obj\Debug\netcoreapp2.2\testapp.dll
+E:\A华师\大三\C#\testapp\obj\Debug\netcoreapp2.2\testapp.pdb
