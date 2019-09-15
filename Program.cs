@@ -14,6 +14,7 @@ namespace testapp
                 Console.WriteLine("This is my first C# program~");
                 Console.Beep(1000,1000);
             }
+            Console.WriteLine("{0}",a);
         }
     }
 }
